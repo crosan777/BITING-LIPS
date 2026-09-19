@@ -667,14 +667,6 @@ O eso crees.
 
 Porque no notas el momento en el que vuelve.
 
-No hay ninguna voz.
-
-Ningún grito.
-
-Ninguna imagen extraña.
-
-Solo una sensación.
-
 Más.
 
 Quieres más.
@@ -787,16 +779,6 @@ Lo miras.
 
 Después vuelves a mirar tu mano.
 
-Y algo dentro de ti...
-
-se mueve.
-
-No reconoces inmediatamente lo que es.
-
-Solo una sensación.
-
-Una necesidad.
-
 Dante vuelve a acercarse.
 
 Quizá pensando que simplemente te has quedado en shock.
@@ -904,7 +886,7 @@ A la pequeña herida.
 
 A la sangre que todavía queda sobre su piel.
 
-Y cada vez que lo haces, algo dentro de ti vuelve a pedir lo mismo.
+Cada vez que lo haces, algo dentro de ti vuelve a pedir lo mismo.
 
 Más.
 
@@ -914,7 +896,7 @@ Pero Dante no parece darse cuenta.
 
 O quizá simplemente cree que quieres más de él.
 
-#speaker
+#speaker:Dante
 
 —¿Qué?
 
@@ -953,8 +935,6 @@ Dante respira profundamente, todavía intentando recuperar el aliento.
 
 Sonríes.
 
-O eso crees.
-
 Porque vuelves a mirarlo.
 
 Su cuello.
@@ -985,8 +965,6 @@ Sonríe.
 —Ni siquiera me has dejado recuperarme.
 
 #speaker
-
-No respondes.
 
 No respondes.
 
@@ -1196,12 +1174,6 @@ No lo hace.
 Cierras los ojos.
 
 Y entonces vuelven los recuerdos.
-
-No como una explicación.
-
-Como imágenes.
-
-Una cocina.
 
 Tus manos.
 

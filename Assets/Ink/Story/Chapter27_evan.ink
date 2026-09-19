@@ -2077,11 +2077,11 @@ Te ríes.
 —Sí, Evan. Me he creído que pasabas por aquí de casualidad.
 #speaker:evan
 #evan:casual:smile
-—Probablemente.
+—De verdad que me quedaba cerca él-.
 
 #speaker:hide
 
-Y vuelve a besarte.
+Le acercas hacía tí para besalo.
 
 Tus manos se apoyan sobre sus hombros.
 
@@ -2194,7 +2194,7 @@ Le agarras el cuello de la camiseta y lo inclinas mucho más hacia ti.
 
 Evan permanece cerca, todavía algo nervioso.
 
-Guías sus manos hacia tu espalda baja, dejándole bajar más si quiere.
+Guías sus manos hacia tu espalda baja, permitiendole bajar más si quiere.
 
 Sorprendentemente lo hace.
 
